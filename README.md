@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2022/06/07/06/13/matrix-7247571_960_720.png" alt="image_description" style="width: auto; height: 100;">
+<img src="https://cdn.pixabay.com/photo/2022/06/07/06/13/matrix-7247571_960_720.png" alt="image_description" style="width: auto; height: 30;">
 <h1 align="center">Hi there, I'm Azad Zeynalov</h1>
 <h3 align="center">I am a passionate software developer based in Toronto, Canada. As far as I remember, I have always been interested in software and programming. It is a great pleasure for me to jump on something new in my field, despite the difficulty. Currently, I am on my way of mastering C++, HTML, CSS and JavaScript.</h3>
 
