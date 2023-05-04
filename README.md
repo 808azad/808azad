@@ -1,7 +1,4 @@
-//<img src="https://cdn.pixabay.com/photo/2022/06/07/06/13/matrix-7247571_960_720.png" alt="image_description" style="width: 500px; height: 250px;">
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://cdn.pixabay.com/photo/2022/06/07/06/13/matrix-7247571_960_720.png" alt="image_description" style="width: 500px; height: 250px;">
-</div>
+<img src="https://cdn.pixabay.com/photo/2022/06/07/06/13/matrix-7247571_960_720.png" alt="image_description" style="width: 500px; height: 250px; display: flex; justify-content: center;">
 <h1 align="center">Hi there, I'm Azad Zeynalov</h1>
 <h3 align="center">I am a passionate software developer based in Toronto, Canada. As far as I remember, I have always been interested in software and programming. It is a great pleasure for me to jump on something new in my field, despite the difficulty. Currently, I am on my way of mastering C++, HTML, CSS and JavaScript.</h3>
 
