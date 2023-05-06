@@ -1,4 +1,4 @@
-<img style="width: auto; height: 250px;" src="https://netlawgic.com/wp-content/uploads/2021/02/Untitled-design-1080x300.png" alt="cover_image">
+<img style="width: auto; height: 500px;" src="https://netlawgic.com/wp-content/uploads/2021/02/Untitled-design-1080x300.png" alt="cover_image">
 <h1 align="center">Hi there, I'm Azad Zeynalov</h1>
 <h3 align="center">I am a passionate software developer based in Toronto, Canada. As far as I remember, I have always been interested in software and programming. It is a great pleasure for me to jump on something new in my field, despite the difficulty. Currently, I am on my way of mastering C++, HTML, CSS and JavaScript.</h3>
 
