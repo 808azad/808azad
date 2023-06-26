@@ -7,8 +7,6 @@
 - 📫 How to reach me **z.azadzeynal@gmail.com**
 
 - ⚡ Fun fact **Besides software development, I also have decent amount of experience in music production.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
