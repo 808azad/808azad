@@ -24,12 +24,6 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  
  </p>
 
- <style>
-  .user{
-   display: flex;
-   text-align: center;
-  }
- </style>
 
 
 <p class="user">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=808azad&show_icons=true&locale=en" alt="808azad"/></p>
