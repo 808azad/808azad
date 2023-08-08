@@ -26,6 +26,7 @@
 
  <style>
   .user{
+   display: flex;
    text-align: center;
   }
  </style>
