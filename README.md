@@ -35,4 +35,4 @@
 ![Azad's GitHub stats](https://github-readme-stats.vercel.app/api?username=808azad&show_icons=true&theme=chartreuse-dark)
 
 
-<p class="user1"><img style="display: block; margin: 0 auto;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=808azad&" alt="808azad"</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=808azad&theme=chartreuse-dark)](https://git.io/streak-stats)
