@@ -24,7 +24,7 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  
  </p>
 
- [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,py,linux,react,vue,flutter&perline=3)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,py,linux,react,vue,flutter&perline=100)](https://skillicons.dev)
 
 
 
