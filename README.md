@@ -33,6 +33,6 @@
 
 <h2>My Stats</h2>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=808azad)](https://github.com/anuraghazra/github-readme-stats)
-<p class="user">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=808azad&show_icons=true&locale=en" alt="808azad"/></p>
+
 
 <p class="user1"><img style="display: block; margin: 0 auto;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=808azad&" alt="808azad"</p>
