@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **z.azadzeynal@gmail.com.**
 
-- ⚡ Fun fact **I have a decent amount of experience in music production with Fl Studio.**
+- ⚡ Fun fact - **I have a decent amount of experience in music production with Fl Studio.**
 <p align="left">
 </p>
 
