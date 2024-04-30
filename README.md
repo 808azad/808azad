@@ -27,6 +27,7 @@
 
  - **Library Management System:** C++ based application designed to streamline library operations.
  - **Assembly Line Simulator:** C++ based application simulating customer order fulfillment through assembly line processes.
+ - **Delivery Logistics System:** C-based Agile solution designed to streamline and optimize the delivery process for local transportation companies.
 
  
 <h2>My Stats📚</h2>
