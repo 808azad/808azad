@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Data Structures & Algorithms**
 
-- 💬 Ask me about **Concepts of OOP, RESTful APIs**
+- 💬 Ask me about **Concepts of OOP, RESTful APIs and others**
 
 - 📫 How to reach me **z.azadzeynal@gmail.com**
 
