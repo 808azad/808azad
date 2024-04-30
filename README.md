@@ -5,15 +5,15 @@
 
 <h2>Interesting Facts✨</h2>
 
-- 🔭 I’m currently working on **Issue Tracker - Web Application**
+- 🔭 I’m currently working on **Issue Tracker - Web Application.**
 
-- 🌱 I’m currently learning **React, Data Structures & Algorithms**
+- 🌱 I’m currently learning **React, Data Structures & Algorithms.**
 
-- 💬 Ask me about **Concepts of OOP, RESTful APIs**
+- 💬 Ask me about **Concepts of OOP, RESTful APIs.**
 
-- 📫 How to reach me **z.azadzeynal@gmail.com**
+- 📫 How to reach me **z.azadzeynal@gmail.com.**
 
-- ⚡ Fun fact **I have a decent amount of experience in music production with Fl Studio**
+- ⚡ Fun fact **I have a decent amount of experience in music production with Fl Studio.**
 <p align="left">
 </p>
 
@@ -24,7 +24,9 @@
 
  <h2>Projects💼</h2>
 
- - Library Management System
+ - Library Management System: C++ based application designed to streamline library operations.
+ - Assembly Line Simulator: A C++ application simulating customer order fulfillment through assembly line processes.
+
  
 
 
