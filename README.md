@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Azad Zeynalov</h1>
+<h1 align="center">Hi 👋, I'm Azad Zeynalov</h1>
 <h3 align="center">I'm a passionate software developer based in Toronto, Canada, driven to craft exceptional solutions. With expertise in C++, Python and JavaScript, I continuously strive to master these languages. My focus is on writing clean, efficient code that meets functional requirements and delivers exceptional user experiences. With a creative mindset and attention to detail, I approach each project with enthusiasm, leveraging problem-solving skills to achieve optimal results. I thrive in collaborative team environments, seeking opportunities to learn from experienced developers and contribute my unique perspective. Let's push boundaries and create innovative solutions together.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
