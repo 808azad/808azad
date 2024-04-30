@@ -32,7 +32,7 @@
 <h2>My Stats📚</h2>
 
 
-![Azad's GitHub stats](https://github-readme-stats.vercel.app/api?username=808azad&show_icons=true&theme=chartreuse-dark)
+![Azad's GitHub stats](https://github-readme-stats.vercel.app/api?username=808azad&show_icons=true&theme=neon)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=808azad&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=808azad&theme=neon)](https://git.io/streak-stats)
