@@ -3,7 +3,7 @@
 <p>I'm a software developer driven by the pursuit of crafting transformative digital experiences through innovative code and creative problem-solving. 💻 | Specializing in backend development, I thrive on architecting scalable solutions that redefine industry standards. 🚀 | Backed by a robust skill set, I excel in dynamic environments where collaboration and curiosity propel progress. 🔍 | Committed to refining my craft through continuous learning and exploration, I eagerly embrace new challenges to push the boundaries of what's possible in software development. 📚 | Let's collaborate, leverage our expertise, and create something extraordinary together! 💼✨.</p>
 
 
-<h2>Interesting Facts</h2>
+<h2>Interesting Facts✨</h2>
 
 - 🔭 I’m currently working on **Issue Tracker - Web Application**
 
@@ -18,7 +18,7 @@
 </p>
 
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools💻:</h2>
 
  [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,py,react,express,mongo,postgres,linux,git&perline=15)](https://skillicons.dev)
 
