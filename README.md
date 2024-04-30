@@ -5,15 +5,15 @@
 
 <h2>Interesting Facts✨</h2>
 
-- 🔭 Currently, I'm immersed in developing a project called Issue Tracker - a dynamic web application aimed at efficiently tracking various issues, enhancing teamwork and productivity.
+- 🔭 Currently, I'm immersed in developing a project called **Issue Tracker** - a dynamic web application aimed at efficiently tracking various issues, enhancing teamwork and productivity.
 
-- 🌱 Learning is an ongoing adventure for me! I'm currently mastering React to craft dynamic user interfaces, while also delving into the intricacies of Data Structures & Algorithms, recognizing their significance in developing robust and efficient software solutions.
+- 🌱 Learning is an ongoing adventure for me! I'm currently mastering **React** to craft dynamic user interfaces, while also delving into the intricacies of **Data Structures & Algorithms**, recognizing their significance in developing robust and efficient software solutions.
 
-- 💬 I'm passionate about sharing knowledge and engaging in meaningful discussions. Whether it's delving into the principles of Object-Oriented Programming or exploring the intricacies of designing RESTful APIs for server-side applications, I'm always eager to exchange ideas and insights with others in the tech community.
+- 💬 I'm passionate about sharing knowledge and engaging in meaningful discussions. Whether it's delving into the principles of **Object-Oriented Programming** or exploring the intricacies of designing **RESTful APIs** for server-side applications, I'm always eager to exchange ideas and insights with others in the tech community.
 
-- 📫 Don't hesitate to reach out to me! You can send me an email at z.azadzeynal@gmail.com, and let's connect to explore new opportunities and collaborate on exciting projects together.
+- 📫 Don't hesitate to reach out to me! You can send me an email at **z.azadzeynal@gmail.com**, and let's connect to explore new opportunities and collaborate on exciting projects together.
 
-- ⚡ Outside the realm of coding, I've accumulated a solid amount of experience in music production with Fl Studio, refining my skills over a considerable period."
+- ⚡ Outside the realm of coding, I've accumulated a solid amount of experience in music production with **Fl Studio**, refining my skills over a considerable period."
 <p align="left">
 </p>
 
