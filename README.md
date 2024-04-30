@@ -1,5 +1,5 @@
 
-<h1>Hi 👋, I'm Azad Zeynalov</h1>
+<h1 align="center">Hi 👋, I'm Azad Zeynalov</h1>
 <p>I'm a software developer driven by the pursuit of crafting transformative digital experiences through innovative code and creative problem-solving. 💻 | Specializing in backend development, I thrive on architecting scalable solutions that redefine industry standards. 🚀 | Backed by a robust skill set, I excel in dynamic environments where collaboration and curiosity propel progress. 🔍 | Committed to refining my craft through continuous learning and exploration, I eagerly embrace new challenges to push the boundaries of what's possible in software development. 📚 | Let's collaborate, leverage our expertise, and create something extraordinary together! 💼✨.</p>
 
 
