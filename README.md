@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-#Work
+<h1>Work</h1>
 - 🔭 I’m currently working on **Issue Tracker - Web Application**
 
 - 🌱 I’m currently learning **React, Data Structures & Algorithms**
