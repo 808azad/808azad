@@ -31,7 +31,7 @@
  
 
 
-![Azad's GitHub stats](https://github-readme-stats.vercel.app/api?username=808azad&show_icons=true&theme=transparent)
+![Azad's GitHub stats](https://github-readme-stats.vercel.app/api?username=808azad&show_icons=true&theme=chartreuse-dark)
 
 
 <p class="user1"><img style="display: block; margin: 0 auto;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=808azad&" alt="808azad"</p>
