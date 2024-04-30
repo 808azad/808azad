@@ -24,8 +24,8 @@
 
  <h2>Projects💼</h2>
 
- - **Library Management System**: C++ based application designed to streamline library operations.
- - **Assembly Line Simulator**: A C++ application simulating customer order fulfillment through assembly line processes.
+ - **Library Management System:** C++ based application designed to streamline library operations.
+ - **Assembly Line Simulator:** C++ based application simulating customer order fulfillment through assembly line processes.
 
  
 
