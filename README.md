@@ -34,7 +34,7 @@
 
 <div style="display: flex; flex-direction: row;">
  <img style="heigth: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api?username=808azad&show_icons=true&theme=neon" />
- <img style="heigth: auto; width: 48%;" class="img" src="https://streak-stats.demolab.com/?user=808azad&theme=neon&layout=compact" />
+ <img style="heigth: auto; width: 45%;" class="img" src="https://streak-stats.demolab.com/?user=808azad&theme=neon&layout=compact" />
 </div>
 
 
