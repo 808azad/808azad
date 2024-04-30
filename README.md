@@ -32,7 +32,7 @@
 <h2>My Stats📚</h2>
 
 
-<div style="display: flex; flex-direction: row; gap: 10px">
+<div style="display: flex; flex-direction: row; gap: 20px">
  <img style="heigth: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api?username=808azad&show_icons=true&theme=neon" />
  <img style="heigth: auto; width: 48%;" class="img" src="https://streak-stats.demolab.com/?user=808azad&theme=neon&layout=compact" />
 </div>
