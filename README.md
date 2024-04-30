@@ -31,13 +31,13 @@
  
 <h2>My Stats📚</h2>
 
-<div style="display: flex;">
+<div style="display: inline-block;">
  
- <div>
-  ![Azad's GitHub stats](https://github-readme-stats.vercel.app/api?username=808azad&show_icons=true&theme=neon)
- </div>
 
- <div>
+  ![Azad's GitHub stats](https://github-readme-stats.vercel.app/api?username=808azad&show_icons=true&theme=neon)
+ 
+
+
   [![GitHub Streak](https://streak-stats.demolab.com/?user=808azad&theme=neon)](https://git.io/streak-stats)
- </div>
+
 </div>
