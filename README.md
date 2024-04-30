@@ -31,8 +31,11 @@
  
 <h2>My Stats📚</h2>
 
+<div style="display: flex;">
+ 
 
-![Azad's GitHub stats](https://github-readme-stats.vercel.app/api?username=808azad&show_icons=true&theme=neon)
+  ![Azad's GitHub stats](https://github-readme-stats.vercel.app/api?username=808azad&show_icons=true&theme=neon)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=808azad&theme=neon)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=808azad&theme=neon)](https://git.io/streak-stats)
+</div>
