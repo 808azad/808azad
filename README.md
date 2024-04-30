@@ -29,7 +29,7 @@
  - **Assembly Line Simulator:** C++ based application simulating customer order fulfillment through assembly line processes.
 
  
-<h2>My Stats</h2>
+<h2>My Stats📚</h2>
 
 
 ![Azad's GitHub stats](https://github-readme-stats.vercel.app/api?username=808azad&show_icons=true&theme=chartreuse-dark)
