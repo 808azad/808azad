@@ -33,9 +33,11 @@
 
 <div style="display: flex;">
  
-
+ <div>
   ![Azad's GitHub stats](https://github-readme-stats.vercel.app/api?username=808azad&show_icons=true&theme=neon)
+ </div>
 
-
+ <div>
   [![GitHub Streak](https://streak-stats.demolab.com/?user=808azad&theme=neon)](https://git.io/streak-stats)
+ </div>
 </div>
