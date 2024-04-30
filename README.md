@@ -40,4 +40,11 @@
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=808azad&theme=neon)](https://git.io/streak-stats)
 
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=808azad&show_icons=true&theme=neon" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://streak-stats.demolab.com/?user=808azad&theme=neon)](https://git.io/streak-stats)" /></div>
+</div>
+
 </div>
