@@ -31,7 +31,6 @@
  
 
 
-<h2>My Stats</h2>
 ![Azad's GitHub stats](https://github-readme-stats.vercel.app/api?username=808azad&show_icons=true&theme=transparent)
 
 
