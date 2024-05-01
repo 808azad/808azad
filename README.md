@@ -23,7 +23,7 @@
  [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,py,react,nodejs,express,mongo,postgres,linux,git&perline=15)](https://skillicons.dev)
  
 
- <h2>Projects💼</h2>
+ <h2>Major Projects💼</h2>
 
  - **Library Management System:** C++ based application designed to streamline library operations.
  - **Assembly Line Simulator:** C++ based application simulating customer order fulfillment through assembly line processes.
