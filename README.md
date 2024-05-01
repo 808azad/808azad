@@ -27,7 +27,7 @@
 
  - **Library Management System:** C++ based application designed to streamline library operations.
  - **Assembly Line Simulator:** C++ based application simulating customer order fulfillment through assembly line processes.
- - **Delivery Logistics:** C-based Agile solution designed to streamline and optimize the delivery process for local transportation companies.
+ - **Delivery Logistics:** C-based Agile solution engineered to enhance and optimize the delivery process for local transportation companies.
  - **Lego App:** Express-based RESTful API tailored for efficient management of LEGO collections by leveraging CRUD operations to facilitate seamless interaction with SQL and NOSQL databases.
 
  
