@@ -20,7 +20,7 @@
 
 <h2 align="left">Languages and Tools💻</h2>
 
- [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,py,react,nodejs,express,mongo,postgres,linux,git&perline=15)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,py,php,go,django,react,nodejs,express,mongo,postgres,oracle,linux,git&perline=15)](https://skillicons.dev)
  
 
  <h2>Major Projects💼</h2>
