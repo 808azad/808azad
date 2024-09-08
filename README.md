@@ -7,7 +7,7 @@
 
 - 🔭 Currently, I'm deep into developing Issue Tracker, a web app aimed at streamlining issue tracking for better teamwork and productivity.
 
-- 🌱  Always learning, I'm honing my skills in React for dynamic UIs and exploring Data Structures & Algorithms for robust software solutions.
+- 🌱 Always learning, I'm honing my skills in C++ for high-performance applications and exploring Data Structures & Algorithms for robust software solutions.
 
 - 💬I'm passionate about knowledge-sharing, whether it's about Object-Oriented Programming or crafting RESTful APIs. Let's exchange insights!
  
@@ -20,7 +20,7 @@
 
 <h2 align="left">Languages and Tools💻</h2>
 
- [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,py,php,django,react,nodejs,express,mongo,postgres,linux,git&perline=15)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,py,php,django,nodejs,express,mongo,postgres,linux,git&perline=15)](https://skillicons.dev)
  
 
  <h2>Major Projects💼</h2>
@@ -28,7 +28,6 @@
  - **Library Management System:** C++ based application designed to streamline library operations.
  - **Assembly Line Simulator:** C++ based application simulating customer order fulfillment through assembly line processes.
  - **Delivery Logistics:** C-based Agile solution engineered to enhance and optimize the delivery process for local transportation companies.
- - **Lego App:** Express-based RESTful API tailored for efficient management of LEGO collections by leveraging CRUD operations to facilitate seamless interaction with SQL and NOSQL databases.
  - **E-Commerce Database:** SQL-based scalable solution designed to streamline and optimize product management, customer transactions, and order fulfillment for online clothing platform.
  - **Common Data Structures:** Python-based solution for implementing and optimizing data structures such as linked lists, stacks, queues, and hash tables for improved performance and efficiency.
 
