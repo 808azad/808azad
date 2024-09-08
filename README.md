@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Azad Zeynalov</h1>
-<p>I'm a passionate software developer dedicated to crafting innovative digital experiences through creative problem-solving. 💻 | Specializing in backend development, I architect scalable solutions that set new industry benchmarks. 🚀 | With a strong skill set, I thrive in collaborative environments, constantly pushing boundaries. 🔍 | Committed to continuous learning, I embrace challenges to push the limits of software development. 📚 | Let's team up, harness our expertise, and create something extraordinary! 💼✨</p>
+<p>I'm a tech-enthusiast dedicated to crafting innovative digital experiences through creative problem-solving. 💻 | I architect scalable solutions that set new industry benchmarks. 🚀 | With a strong skill set, I thrive in collaborative environments, constantly pushing boundaries. 🔍 | Committed to continuous learning, I embrace challenges to push the limits of IT industry. 📚 | Let's team up, harness our expertise, and create something extraordinary! 💼✨</p>
 
 
 <h2>Interesting Facts✨</h2>
@@ -29,6 +29,8 @@
  - **Assembly Line Simulator:** C++ based application simulating customer order fulfillment through assembly line processes.
  - **Delivery Logistics:** C-based Agile solution engineered to enhance and optimize the delivery process for local transportation companies.
  - **Lego App:** Express-based RESTful API tailored for efficient management of LEGO collections by leveraging CRUD operations to facilitate seamless interaction with SQL and NOSQL databases.
+ - **E-Commerce Database:** SQL-based scalable solution designed to streamline and optimize product management, customer transactions, and order fulfillment for online clothing platform.
+ - **Common Data Structures:** Python-based solution for implementing and optimizing data structures such as linked lists, stacks, queues, and hash tables for improved performance and efficiency.
 
  
 <h2>My Stats📚</h2>
