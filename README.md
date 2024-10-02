@@ -5,7 +5,6 @@
 
 <h2>Interesting Facts✨</h2>
 
-- 🔭 Currently, I'm deep into developing Issue Tracker, a web app aimed at streamlining issue tracking for better teamwork and productivity.
 
 - 🌱 Always learning, I'm honing my skills in C++ for high-performance applications and exploring Data Structures & Algorithms for robust software solutions.
 
